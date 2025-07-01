@@ -14,4 +14,4 @@ Weicai Zhong<sup>2</sup>,
 
 ### [Arxiv](https://arxiv.org/abs/2208.00945) | [Paper](https://github.com/zijinwuzijin/DoF-NeRF/blob/main/pdf/DoF_NeRF_Depth_of_Field_Meets_Neural_Radiance_Fields.pdf) | [Supp](https://github.com/zijinwuzijin/DoF-NeRF/blob/main/pdf/DoF_NeRF_Depth_of_Field_Meets_Neural_Radiance_Fields_Supplementary_Material.pdf) | [Data](https://drive.google.com/drive/folders/1TARBbPhW39Y_cKTcUMJVKfS4xeI1-GvS?usp=sharing) | [Video](https://www.youtube.com/watch?v=WVmO2e0pdQk) | [视频](https://www.bilibili.com/video/BV1Ea411K75V) 
 
-This repository is the official PyTorch implementation of the ACMMM2022 paper "DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields". The code and data will be released upon publication.
+This repository is the official complete PyTorch implementation of the ACMMM2022 paper "DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields". The master branch has the training code.
